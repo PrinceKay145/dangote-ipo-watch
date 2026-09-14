@@ -1,0 +1,54 @@
+name: daily collect
+
+# 06:10 UTC daily. EIA posts the previous session's spot prices in the US
+# morning, so this picks up yesterday's close reliably. Also runnable by hand,
+# with optional slots for the two fields that have no free feed.
+on:
+  schedule:
+    - cron: "10 6 * * *"
+  workflow_dispatch:
+    inputs:
+      ngx_asi:
+        description: "NGX All-Share Index close"
+        required: false
+      parallel:
+        description: "USD/NGN parallel market rate"
+        required: false
+      note:
+        description: "Subscription note"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect
+        run: |
+          ARGS=""
+          [ -n "${{ inputs.ngx_asi }}" ] && ARGS="$ARGS --ngx-asi ${{ inputs.ngx_asi }}"
+          [ -n "${{ inputs.parallel }}" ] && ARGS="$ARGS --parallel ${{ inputs.parallel }}"
+          [ -n "${{ inputs.note }}" ] && ARGS="$ARGS --subscription-note '${{ inputs.note }}'"
+          python run.py $ARGS
+
+      - name: Analyse
+        run: python analyse.py
+
+      - name: Commit
+        run: |
+          git config user.name "dangote-ipo-watch"
+          git config user.email "actions@github.com"
+          git add data reports docs
+          git diff --staged --quiet || git commit -m "collect $(date -u +%Y-%m-%d)"
+          git push
