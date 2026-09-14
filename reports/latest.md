@@ -25,7 +25,7 @@ Latest EIA observation: **2026-09-09**
 ## FX
 
 - USD/NGN official: **1,327.10**
-- USD/NGN parallel: **1,392.00** (4.89% premium)
+- USD/NGN parallel: not captured this run (pass `--parallel`)
 
 ## What ₦525 implies at these margins
 
@@ -61,13 +61,13 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 | Date | Articles |
 |---|---:|
 | 2026-09-04 | 1 |
-| 2026-09-07 | 5 |
+| 2026-09-07 | 6 |
 | 2026-09-08 | 5 |
 | 2026-09-09 | 12 |
 | 2026-09-10 | 8 |
 | 2026-09-11 | 14 |
-| 2026-09-12 | 11 |
-| 2026-09-13 | 22 |
-| 2026-09-14 | 89 |
+| 2026-09-12 | 12 |
+| 2026-09-13 | 23 |
+| 2026-09-14 | 90 |
 
 _Google News, Nigeria edition. Volume only - no sentiment scoring, because a headline count is evidence of attention, not of quality._
