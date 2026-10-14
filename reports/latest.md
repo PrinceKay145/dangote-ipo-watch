@@ -1,6 +1,6 @@
-# Dangote Refinery IPO watch - 2026-10-13
+# Dangote Refinery IPO watch - 2026-10-14
 
-**Offer window:** 2026-09-14 to 2026-10-13 (0 days left)
+**Offer window:** 2026-09-14 to 2026-10-13 (-1 days left)
 
 _Research log. Describes inputs; recommends nothing._
 
@@ -24,12 +24,12 @@ Latest EIA observation: **2026-10-06**
 
 ## FX
 
-- USD/NGN official: **1,331.44**
+- USD/NGN official: **1,331.28**
 - USD/NGN parallel: not captured this run (pass `--parallel`)
 
 ## What ₦525 implies at these margins
 
-At USD/NGN 1,331.44, 124.23bn shares × ₦525 = **$48.99bn** market cap; adding $5.67bn secured debt gives **$54.66bn** enterprise value (cash not disclosed, so EV is overstated).
+At USD/NGN 1,331.28, 124.23bn shares × ₦525 = **$48.99bn** market cap; adding $5.67bn secured debt gives **$54.66bn** enterprise value (cash not disclosed, so EV is overstated).
 
 - At **today's** crack ($38.26/bbl): EV/EBITDA ≈ **7.3×**
 - At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **11.9×**
@@ -60,7 +60,6 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 
 | Date | Articles |
 |---|---:|
-| 2026-10-04 | 12 |
 | 2026-10-05 | 39 |
 | 2026-10-06 | 48 |
 | 2026-10-07 | 43 |
@@ -68,7 +67,8 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 | 2026-10-09 | 24 |
 | 2026-10-10 | 10 |
 | 2026-10-11 | 13 |
-| 2026-10-12 | 65 |
-| 2026-10-13 | 44 |
+| 2026-10-12 | 77 |
+| 2026-10-13 | 75 |
+| 2026-10-14 | 18 |
 
 _Google News, Nigeria edition. Volume only - no sentiment scoring, because a headline count is evidence of attention, not of quality._
