@@ -1,6 +1,6 @@
-# Dangote Refinery IPO watch - 2026-10-22
+# Dangote Refinery IPO watch - 2026-10-23
 
-**Offer window:** 2026-09-14 to 2026-10-13 (-9 days left)
+**Offer window:** 2026-09-14 to 2026-10-13 (-10 days left)
 
 _Research log. Describes inputs; recommends nothing._
 
@@ -24,28 +24,28 @@ Latest EIA observation: **2026-10-20**
 
 ## FX
 
-- USD/NGN official: **1,334.42**
+- USD/NGN official: **1,324.60**
 - USD/NGN parallel: not captured this run (pass `--parallel`)
 
 ## What ₦525 implies at these margins
 
-At USD/NGN 1,334.42, 124.23bn shares × ₦525 = **$48.88bn** market cap; adding $5.67bn secured debt gives **$54.55bn** enterprise value (cash not disclosed, so EV is overstated).
+At USD/NGN 1,324.60, 124.23bn shares × ₦525 = **$49.24bn** market cap; adding $5.67bn secured debt gives **$54.91bn** enterprise value (cash not disclosed, so EV is overstated).
 
-- At **today's** crack ($42.64/bbl): EV/EBITDA ≈ **6.4×**
-- At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **11.9×**
+- At **today's** crack ($42.64/bbl): EV/EBITDA ≈ **6.5×**
+- At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **12.0×**
 
 ### Margin sensitivity
 
 | Gross margin $/bbl | Implied annual EBITDA $bn | EV/EBITDA |
 |---:|---:|---:|
-| 8.0 | 1.07 | 51.1× |
-| 12.0 | 1.92 | 28.4× |
-| 16.0 | 2.78 | 19.7× |
-| 20.0 | 3.63 | 15.0× |
-| 24.5 | 4.59 | 11.9× |
+| 8.0 | 1.07 | 51.4× |
+| 12.0 | 1.92 | 28.6× |
+| 16.0 | 2.78 | 19.8× |
+| 20.0 | 3.63 | 15.1× |
+| 24.5 | 4.59 | 12.0× |
 | 30.0 | 5.77 | 9.5× |
 | 40.0 | 7.90 | 6.9× |
-| 50.0 | 10.04 | 5.4× |
+| 50.0 | 10.04 | 5.5× |
 
 _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/bbl opex). Calibrated so the H1 inputs reproduce RenCap's $2.6bn H1 EBITDA. An order of magnitude, not a valuation._
 
@@ -60,15 +60,15 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 
 | Date | Articles |
 |---|---:|
-| 2026-10-13 | 81 |
 | 2026-10-14 | 48 |
 | 2026-10-15 | 22 |
 | 2026-10-16 | 21 |
 | 2026-10-17 | 5 |
 | 2026-10-18 | 10 |
-| 2026-10-19 | 57 |
-| 2026-10-20 | 12 |
-| 2026-10-21 | 13 |
-| 2026-10-22 | 6 |
+| 2026-10-19 | 59 |
+| 2026-10-20 | 13 |
+| 2026-10-21 | 15 |
+| 2026-10-22 | 16 |
+| 2026-10-23 | 9 |
 
 _Google News, Nigeria edition. Volume only - no sentiment scoring, because a headline count is evidence of attention, not of quality._
