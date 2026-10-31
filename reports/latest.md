@@ -1,6 +1,6 @@
-# Dangote Refinery IPO watch - 2026-10-30
+# Dangote Refinery IPO watch - 2026-10-31
 
-**Offer window:** 2026-09-14 to 2026-10-13 (-17 days left)
+**Offer window:** 2026-09-14 to 2026-10-13 (-18 days left)
 
 _Research log. Describes inputs; recommends nothing._
 
@@ -24,12 +24,12 @@ Latest EIA observation: **2026-10-27**
 
 ## FX
 
-- USD/NGN official: **1,346.22**
+- USD/NGN official: **1,345.47**
 - USD/NGN parallel: not captured this run (pass `--parallel`)
 
 ## What ₦525 implies at these margins
 
-At USD/NGN 1,346.22, 124.23bn shares × ₦525 = **$48.45bn** market cap; adding $5.67bn secured debt gives **$54.12bn** enterprise value (cash not disclosed, so EV is overstated).
+At USD/NGN 1,345.47, 124.23bn shares × ₦525 = **$48.47bn** market cap; adding $5.67bn secured debt gives **$54.14bn** enterprise value (cash not disclosed, so EV is overstated).
 
 - At **today's** crack ($30.47/bbl): EV/EBITDA ≈ **9.2×**
 - At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **11.8×**
@@ -44,7 +44,7 @@ At USD/NGN 1,346.22, 124.23bn shares × ₦525 = **$48.45bn** market cap; adding
 | 20.0 | 3.63 | 14.9× |
 | 24.5 | 4.59 | 11.8× |
 | 30.0 | 5.77 | 9.4× |
-| 40.0 | 7.90 | 6.8× |
+| 40.0 | 7.90 | 6.9× |
 | 50.0 | 10.04 | 5.4× |
 
 _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/bbl opex). Calibrated so the H1 inputs reproduce RenCap's $2.6bn H1 EBITDA. An order of magnitude, not a valuation._
