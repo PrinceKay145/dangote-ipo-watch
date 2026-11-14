@@ -1,6 +1,6 @@
-# Dangote Refinery IPO watch - 2026-11-13
+# Dangote Refinery IPO watch - 2026-11-14
 
-**Offer window:** 2026-09-14 to 2026-10-13 (-31 days left)
+**Offer window:** 2026-09-14 to 2026-10-13 (-32 days left)
 
 _Research log. Describes inputs; recommends nothing._
 
@@ -24,26 +24,26 @@ Latest EIA observation: **2026-11-11**
 
 ## FX
 
-- USD/NGN official: **1,350.46**
+- USD/NGN official: **1,352.36**
 - USD/NGN parallel: not captured this run (pass `--parallel`)
 
 ## What ₦525 implies at these margins
 
-At USD/NGN 1,350.46, 124.23bn shares × ₦525 = **$48.30bn** market cap; adding $5.67bn secured debt gives **$53.97bn** enterprise value (cash not disclosed, so EV is overstated).
+At USD/NGN 1,352.36, 124.23bn shares × ₦525 = **$48.23bn** market cap; adding $5.67bn secured debt gives **$53.90bn** enterprise value (cash not disclosed, so EV is overstated).
 
 - At **today's** crack ($36.41/bbl): EV/EBITDA ≈ **7.6×**
-- At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **11.8×**
+- At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **11.7×**
 
 ### Margin sensitivity
 
 | Gross margin $/bbl | Implied annual EBITDA $bn | EV/EBITDA |
 |---:|---:|---:|
 | 8.0 | 1.07 | 50.5× |
-| 12.0 | 1.92 | 28.1× |
+| 12.0 | 1.92 | 28.0× |
 | 16.0 | 2.78 | 19.4× |
-| 20.0 | 3.63 | 14.9× |
-| 24.5 | 4.59 | 11.8× |
-| 30.0 | 5.77 | 9.4× |
+| 20.0 | 3.63 | 14.8× |
+| 24.5 | 4.59 | 11.7× |
+| 30.0 | 5.77 | 9.3× |
 | 40.0 | 7.90 | 6.8× |
 | 50.0 | 10.04 | 5.4× |
 
@@ -60,15 +60,15 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 
 | Date | Articles |
 |---|---:|
-| 2026-11-04 | 24 |
 | 2026-11-05 | 19 |
 | 2026-11-06 | 14 |
 | 2026-11-07 | 4 |
 | 2026-11-08 | 16 |
-| 2026-11-09 | 24 |
+| 2026-11-09 | 25 |
 | 2026-11-10 | 21 |
-| 2026-11-11 | 19 |
+| 2026-11-11 | 20 |
 | 2026-11-12 | 11 |
-| 2026-11-13 | 8 |
+| 2026-11-13 | 14 |
+| 2026-11-14 | 2 |
 
 _Google News, Nigeria edition. Volume only - no sentiment scoring, because a headline count is evidence of attention, not of quality._
