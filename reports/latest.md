@@ -1,6 +1,6 @@
-# Dangote Refinery IPO watch - 2026-11-20
+# Dangote Refinery IPO watch - 2026-11-21
 
-**Offer window:** 2026-09-14 to 2026-10-13 (-38 days left)
+**Offer window:** 2026-09-14 to 2026-10-13 (-39 days left)
 
 _Research log. Describes inputs; recommends nothing._
 
@@ -60,7 +60,6 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 
 | Date | Articles |
 |---|---:|
-| 2026-11-11 | 20 |
 | 2026-11-12 | 12 |
 | 2026-11-13 | 15 |
 | 2026-11-14 | 8 |
@@ -69,6 +68,7 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 | 2026-11-17 | 22 |
 | 2026-11-18 | 34 |
 | 2026-11-19 | 16 |
-| 2026-11-20 | 18 |
+| 2026-11-20 | 28 |
+| 2026-11-21 | 1 |
 
 _Google News, Nigeria edition. Volume only - no sentiment scoring, because a headline count is evidence of attention, not of quality._
