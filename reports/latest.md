@@ -1,37 +1,37 @@
-# Dangote Refinery IPO watch - 2026-11-25
+# Dangote Refinery IPO watch - 2026-11-26
 
-**Offer window:** 2026-09-14 to 2026-10-13 (-43 days left)
+**Offer window:** 2026-09-14 to 2026-10-13 (-44 days left)
 
 _Research log. Describes inputs; recommends nothing._
 
 ## Spot prices and refining margins
 
-Latest EIA observation: **2026-11-17**
+Latest EIA observation: **2026-11-24**
 
 | Series | Level |
 |---|---:|
-| Brent | $92.94/bbl |
-| WTI | $89.53/bbl |
-| Brent-WTI spread | $3.41/bbl |
-| Gasoline, US Gulf Coast | $2.4620/gal |
-| ULSD, US Gulf Coast | $3.9430/gal |
-| **3:2:1 crack vs Brent** | **$31.20/bbl** |
-| 3:2:1 crack vs WTI | $34.61/bbl |
-| Gasoline crack vs Brent | $10.46/bbl |
-| Diesel crack vs Brent | $72.67/bbl |
+| Brent | $91.80/bbl |
+| WTI | $82.24/bbl |
+| Brent-WTI spread | $9.56/bbl |
+| Gasoline, US Gulf Coast | $2.4090/gal |
+| ULSD, US Gulf Coast | $3.6360/gal |
+| **3:2:1 crack vs Brent** | **$26.56/bbl** |
+| 3:2:1 crack vs WTI | $36.12/bbl |
+| Gasoline crack vs Brent | $9.38/bbl |
+| Diesel crack vs Brent | $60.91/bbl |
 
-30-day mean 3:2:1 crack vs Brent: **$36.26/bbl**. H1 2026 realised gross margin was $24.5/bbl (Renaissance Capital).
+30-day mean 3:2:1 crack vs Brent: **$35.23/bbl**. H1 2026 realised gross margin was $24.5/bbl (Renaissance Capital).
 
 ## FX
 
-- USD/NGN official: **1,366.83**
+- USD/NGN official: **1,367.78**
 - USD/NGN parallel: not captured this run (pass `--parallel`)
 
 ## What ₦525 implies at these margins
 
-At USD/NGN 1,366.83, 124.23bn shares × ₦525 = **$47.72bn** market cap; adding $5.67bn secured debt gives **$53.39bn** enterprise value (cash not disclosed, so EV is overstated).
+At USD/NGN 1,367.78, 124.23bn shares × ₦525 = **$47.68bn** market cap; adding $5.67bn secured debt gives **$53.35bn** enterprise value (cash not disclosed, so EV is overstated).
 
-- At **today's** crack ($31.20/bbl): EV/EBITDA ≈ **8.9×**
+- At **today's** crack ($26.56/bbl): EV/EBITDA ≈ **10.6×**
 - At the **H1 2026 realised** margin ($24.5/bbl): EV/EBITDA ≈ **11.6×**
 
 ### Margin sensitivity
@@ -60,15 +60,15 @@ _Model: 650,000 bpd nameplate × 90% utilisation × 365 days × (margin − $3/b
 
 | Date | Articles |
 |---|---:|
-| 2026-11-16 | 29 |
 | 2026-11-17 | 22 |
 | 2026-11-18 | 35 |
 | 2026-11-19 | 18 |
 | 2026-11-20 | 29 |
 | 2026-11-21 | 4 |
 | 2026-11-22 | 4 |
-| 2026-11-23 | 15 |
-| 2026-11-24 | 32 |
-| 2026-11-25 | 22 |
+| 2026-11-23 | 17 |
+| 2026-11-24 | 36 |
+| 2026-11-25 | 31 |
+| 2026-11-26 | 16 |
 
 _Google News, Nigeria edition. Volume only - no sentiment scoring, because a headline count is evidence of attention, not of quality._
